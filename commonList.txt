@@ -1,0 +1,30 @@
+Phone{manufacturer = 'LENOVO', model = '850', screenDiagonal = 6.0, batteryCapacity = 3800, value = 5800.0, yearOfIssue = 2014}
+Phone{manufacturer = 'SAMSUNG', model = '5700', screenDiagonal = 5.5, batteryCapacity = 4100, value = 7800.0, yearOfIssue = 2017}
+Phone{manufacturer = 'APPLE', model = '5', screenDiagonal = 4.7, batteryCapacity = 4650, value = 10200.0, yearOfIssue = 2018}
+Phone{manufacturer = 'LG', model = '45', screenDiagonal = 5.0, batteryCapacity = 5000, value = 6200.0, yearOfIssue = 2015}
+___________________________________________
+Laptop{manufacturer = 'LENOVO', model = '3000', screenDiagonal = 19.0, ram = 1, value = 9900, yearOfIssue = 2018}
+Laptop{manufacturer = 'APPLE', model = '450', screenDiagonal = 17.0, ram = 2, value = 13500, yearOfIssue = 2016}
+Laptop{manufacturer = 'SAMSUNG', model = '852', screenDiagonal = 16.5, ram = 3, value = 7500, yearOfIssue = 2014}
+Laptop{manufacturer = 'ACER', model = '7800', screenDiagonal = 18.0, ram = 4, value = 8200, yearOfIssue = 2011}
+___________________________________________
+Monitor_Display{manufacturer = 'LG', model = '3350', screenDiagonal = 18.0, value = 6400, yearOfIssue = 2017}
+Monitor_Display{manufacturer = 'SONY', model = '5522', screenDiagonal = 22.0, value = 7600, yearOfIssue = 2010}
+Monitor_Display{manufacturer = 'VAIO', model = '4000', screenDiagonal = 24.0, value = 7000, yearOfIssue = 2012}
+Monitor_Display{manufacturer = 'SAMSUNG', model = '9000', screenDiagonal = 26.0, value = 8300, yearOfIssue = 2014}
+___________________________________________
+The range of online store:
+
+Phone{manufacturer = 'LENOVO', model = '850', screenDiagonal = 6.0, batteryCapacity = 3800, value = 5800.0, yearOfIssue = 2014}
+Phone{manufacturer = 'SAMSUNG', model = '5700', screenDiagonal = 5.5, batteryCapacity = 4100, value = 7800.0, yearOfIssue = 2017}
+Phone{manufacturer = 'APPLE', model = '5', screenDiagonal = 4.7, batteryCapacity = 4650, value = 10200.0, yearOfIssue = 2018}
+Phone{manufacturer = 'LG', model = '45', screenDiagonal = 5.0, batteryCapacity = 5000, value = 6200.0, yearOfIssue = 2015}
+Laptop{manufacturer = 'LENOVO', model = '3000', screenDiagonal = 19.0, ram = 1, value = 9900, yearOfIssue = 2018}
+Laptop{manufacturer = 'APPLE', model = '450', screenDiagonal = 17.0, ram = 2, value = 13500, yearOfIssue = 2016}
+Laptop{manufacturer = 'SAMSUNG', model = '852', screenDiagonal = 16.5, ram = 3, value = 7500, yearOfIssue = 2014}
+Laptop{manufacturer = 'ACER', model = '7800', screenDiagonal = 18.0, ram = 4, value = 8200, yearOfIssue = 2011}
+Monitor_Display{manufacturer = 'LG', model = '3350', screenDiagonal = 18.0, value = 6400, yearOfIssue = 2017}
+Monitor_Display{manufacturer = 'SONY', model = '5522', screenDiagonal = 22.0, value = 7600, yearOfIssue = 2010}
+Monitor_Display{manufacturer = 'VAIO', model = '4000', screenDiagonal = 24.0, value = 7000, yearOfIssue = 2012}
+Monitor_Display{manufacturer = 'SAMSUNG', model = '9000', screenDiagonal = 26.0, value = 8300, yearOfIssue = 2014}
+
